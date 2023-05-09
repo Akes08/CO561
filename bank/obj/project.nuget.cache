@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AFTDXgXaC0XgauqrXMPEmEdBAY7lmdkw6UB09R1bI8EIp3QS8QwG4xun3UAjomMtREpKRS3ohU5wl7HiOakTRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alia0\\OneDrive\\Documents\\GitHub\\CO554\\bank\\bank.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alia0\\.nuget\\packages\\fsharp.core\\6.0.6\\fsharp.core.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

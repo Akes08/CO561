@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0sGQ72LogbF6whV1U68q/wFP7y9sBoa4lvbN8uU+V91BDWcy8ZvrpBA3aTHD5j7iIosaiLDgVA23K2kx1RUHTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alia0\\OneDrive\\Documents\\GitHub\\CO554\\bookseat\\bookseat.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alia0\\.nuget\\packages\\fsharp.core\\6.0.6\\fsharp.core.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
